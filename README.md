@@ -2,6 +2,14 @@
 
 This is a fork from the [excalidraw project](https://github.com/excalidraw/excalidraw) with changes inspired and partly taken from [Kilian Decaderincourt](https://gitlab.com/kiliandeca/excalidraw-fork) to enable support for rooms without using firebase.<br />
 
+## 🔍 Feature Comparison
+
+**Want to know what features are available vs Excalidraw+ (paid version)?**
+
+👉 **[See detailed feature comparison](./FEATURES.md)** - Comprehensive guide showing what's included in this self-hosted version and what requires Excalidraw+.
+
+**TL;DR:** This fork includes all core drawing and real-time collaboration features with self-hosted storage. Excalidraw+ adds AI features (text-to-diagram, diagram-to-code), cloud workspace, version history, and mobile apps.
+
 ## Setup with docker
 
 Please copy the .env.development.default or .env.production.default file to .env (or with environment without default at the end) and change it according to your needs, see [react-scripts](https://create-react-app.dev/docs/adding-custom-environment-variables/).
