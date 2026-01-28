@@ -6,6 +6,25 @@ This document provides a comprehensive comparison between this self-hosted Excal
 
 This fork is based on the open-source Excalidraw project with modifications to enable self-hosting without Firebase. It provides a pluggable storage backend system that allows you to use HTTP-based storage (PostgreSQL) instead of Firebase.
 
+## 🚀 Quick Feature Summary
+
+| Feature Category | Self-Hosted (This Fork) | Excalidraw+ (Paid) |
+|-----------------|------------------------|-------------------|
+| **Core Drawing Tools** | ✅ Full Support | ✅ Full Support |
+| **Real-time Collaboration** | ✅ Full Support | ✅ Full Support |
+| **End-to-End Encryption** | ✅ Yes | ✅ Yes |
+| **Export (PNG/SVG/JSON)** | ✅ Yes | ✅ Yes |
+| **Self-Hosted Storage** | ✅ Yes (PostgreSQL) | ❌ Cloud Only |
+| **AI Text-to-Diagram** | ❌ Not Available | ✅ Yes (Unlimited) |
+| **AI Diagram-to-Code** | ❌ Not Available | ✅ Yes (Unlimited) |
+| **Cloud Workspace** | ❌ Not Available | ✅ Yes |
+| **Version History** | ❌ Not Available | ✅ Yes |
+| **Mobile Apps** | ❌ Not Available | ✅ iOS & Android |
+| **Team Management** | ❌ Not Available | ✅ Yes |
+| **Priority Support** | ❌ Community Only | ✅ Yes |
+| **Cost** | 🆓 Free | 💰 Subscription |
+| **Data Control** | ✅ Full Control | ❌ Cloud-hosted |
+
 ## ✅ Features Available in This Self-Hosted Version
 
 ### Core Drawing Features
